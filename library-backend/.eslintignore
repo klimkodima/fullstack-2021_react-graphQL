@@ -1,0 +1,7 @@
+build
+node_modules
+.vscode
+.git
+public
+.eslintrc.js
+jest.config.js
